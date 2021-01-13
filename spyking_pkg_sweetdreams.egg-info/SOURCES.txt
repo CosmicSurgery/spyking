@@ -1,0 +1,6 @@
+README.md
+setup.py
+spyking_pkg_sweetdreams.egg-info/PKG-INFO
+spyking_pkg_sweetdreams.egg-info/SOURCES.txt
+spyking_pkg_sweetdreams.egg-info/dependency_links.txt
+spyking_pkg_sweetdreams.egg-info/top_level.txt

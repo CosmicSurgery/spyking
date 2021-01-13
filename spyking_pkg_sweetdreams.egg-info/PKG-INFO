@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: spyking-pkg-sweetdreams
+Version: 0.0.1
+Summary: package created for my research lab to simulate spiking neural networks
+Home-page: https:github.com/CosmicSurgery/spyking
+Author: SweetDreams
+Author-email: 
+License: UNKNOWN
+Description: Simple package I created to help my lab simulate a spiking neural network.
+        
+        Emphasis put on being biomimetic and modularity
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
